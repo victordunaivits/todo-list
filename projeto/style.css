@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    border: none;
+    font-family: 'Roboto Mono', monospace;
+}
+
+body {
+    background: url('../imagens/bg.png');
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+.container {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background: #fff;
+    border-radius: 3px;
+    width: 460px;
+    height: 600px;
+    text-align: center;
+}
+
+h1 {
+    margin: 25px 0 25px 0;
+}
+
+.add-element {
+    margin: 12px 0;
+}
+
+input {
+    padding: 6px 4px;
+    width: 70%;
+    border: solid 1px #B7B7B7;
+    border-radius: 3px;
+}
+
+button {
+    padding: 5.5px 14px;
+    background: #67A68B;
+    border-radius: 3px;
+    color: #fff;
+    font-size: 1rem;
+}
+
+button:hover {
+    background: #528b73;
+    cursor: pointer;
+}
+
+.element-list {
+    height: 550px;
+    overflow-y: auto;
+}
+
+ul {
+    padding: 15px;
+}
+
+li {
+    list-style: none;
+    padding: 10px 5px;
+    background: #fff;
+    margin: 12px 0;
+    border-radius: 3px;
+    transition: .5s;
+    cursor: pointer;
+}
+
+li:hover {
+    background: #D6D6D6;
+}
+
+.checked {
+    text-decoration: line-through;
+    background: #fff;
+}
