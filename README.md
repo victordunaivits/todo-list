@@ -13,8 +13,8 @@
 </ul>
 
 <h2>Imagens do projeto</h2>
-<img src="imagens/img.png"style="height: 400px">
-<img src="imagens/gif.gif"style="height: 400px">
+<img src="imagens/img.png"style="height: 450px">
+<img src="imagens/gif.gif"style="height: 450px">
 
 <h2>Pré-requisitos</h2>
 <p>Antes de começar, você vai precisar ter instalado as seguintes ferramentas:</p>
