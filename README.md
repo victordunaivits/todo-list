@@ -13,7 +13,7 @@
 </ul>
 
 <h2>Imagens do projeto</h2>
-<img src="imagens/login.png"style="height: 400px">
+<img src="imagens/img.png"style="height: 400px">
 <img src="imagens/gif.gif"style="height: 400px">
 
 <h2>Pré-requisitos</h2>
