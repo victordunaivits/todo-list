@@ -2,7 +2,6 @@
 
 <br>
 
-<h1>Projeto To-do List</h1>
 <p>Em construção... 🚀</p>
 
 <h2>Tecnologias utilizadas</h2>
